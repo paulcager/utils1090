@@ -1,0 +1,2 @@
+sqlite3 locs.db 'create table if not exists locs(timestamp, hexcode, lat, lon);'
+xzcat -f ~/192.168.0.15\:30003-*.log* | ./select_locs | sqlite3 locs.db -csv '.import /dev/fd/0 locs'
