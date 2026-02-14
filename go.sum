@@ -1,0 +1,4 @@
+github.com/golang/geo v0.0.0-20260129164528-943061e2742c h1:ysO2h2Odnl1AJM1I2Lm/fa6JvO0pECMSt2CwBaa+ITo=
+github.com/golang/geo v0.0.0-20260129164528-943061e2742c/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
+github.com/mattn/go-sqlite3 v1.14.34 h1:3NtcvcUnFBPsuRcno8pUtupspG/GM+9nZ88zgJcp6Zk=
+github.com/mattn/go-sqlite3 v1.14.34/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
